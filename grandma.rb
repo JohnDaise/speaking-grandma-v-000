@@ -23,6 +23,9 @@ elsif condition
 
   return "NO, NOT SINCE 1938!"
 
+elsif condition
+
+  return "I LOVE YOU TOO PUMPKIN!"
 end
 
 end
