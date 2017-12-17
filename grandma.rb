@@ -20,7 +20,7 @@ if phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 
 
-#elsif condition
+elsif phrase ==
 
     #return "HUH?! SPEAK UP, SONNY!"
 
