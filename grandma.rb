@@ -18,13 +18,14 @@ def speak_to_grandma(phrase)
 
     return "I LOVE YOU TOO PUMPKIN!"
 
-  elsif phrase.upcase != true
-
-    return "NO, NOT SINCE 1938!"
-
-  else
+  elsif phrase.downcase != true
 
     return "HUH?! SPEAK UP, SONNY!"
+    # "NO, NOT SINCE 1938!"
+
+  #else
+
+  #  return "HUH?! SPEAK UP, SONNY!"
 
   end
 end
