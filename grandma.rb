@@ -15,17 +15,20 @@
 def speak_to_grandma(phrase)
 
 
-if phrase
-
-  return "HUH?! SPEAK UP, SONNY!"
-
-elsif condition
-
-  return "NO, NOT SINCE 1938!"
-
-elsif phrase == "I LOVE YOU GRANDMA!"
+if phrase == "I LOVE YOU GRANDMA!"
 
   return "I LOVE YOU TOO PUMPKIN!"
+
+
+#elsif condition
+
+    #return "HUH?! SPEAK UP, SONNY!"
+
+#elsif
+
+#  return "NO, NOT SINCE 1938!"
+
+
 end
 
 end
