@@ -20,7 +20,7 @@ if phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 
 
-if phrase.uppercase == true
+elsif phrase.uppercase == true
 
    return "NO, NOT SINCE 1938!"
 
