@@ -20,9 +20,9 @@ if phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 
 
-elsif phrase ==
+elsif phrase == string.downcase
 
-    #return "HUH?! SPEAK UP, SONNY!"
+   return "HUH?! SPEAK UP, SONNY!"
 
 #elsif
 
