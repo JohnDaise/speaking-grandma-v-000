@@ -23,11 +23,14 @@ elsif phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 
 
-
+else 
+  
+  return HUH?! SPEAK UP, SONNY!"
+  
 
 #elsif
 
-#  return HUH?! SPEAK UP, SONNY!"
+#  
 
 
 end
